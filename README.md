@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Gokuls2003/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gokuls2003/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
