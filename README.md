@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gokuls2003/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Gokuls2003/leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Gokuls2003/leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gokuls2003/leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gokuls2003/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Gokuls2003/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
