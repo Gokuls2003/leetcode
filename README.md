@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Gokuls2003/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Gokuls2003/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
