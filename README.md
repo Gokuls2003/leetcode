@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gokuls2003/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Gokuls2003/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gokuls2003/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gokuls2003/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gokuls2003/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
