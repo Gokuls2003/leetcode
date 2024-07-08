@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gokuls2003/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Gokuls2003/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gokuls2003/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 ## String
