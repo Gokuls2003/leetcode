@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gokuls2003/leetcode/tree/master/0069-sqrtx) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |
