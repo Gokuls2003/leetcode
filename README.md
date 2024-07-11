@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokuls2003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
+| [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
+| [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
 ## Backtracking
 |  |
 | ------- |
