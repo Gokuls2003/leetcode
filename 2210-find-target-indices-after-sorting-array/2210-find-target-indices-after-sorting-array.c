@@ -1,4 +1,19 @@
-/**
+/**   vector<int> targetIndices(vector<int>& nums, int target) {
+    int cnt=0 , small=0 , k=0;
+	
+    for(auto i:nums){
+        if(i<target) small++;
+        if(i==target) cnt++;
+    }
+	
+    vector<int> ans;
+	//to make push_back work in O(1) TIME -> RESERVE SPACE
+	ans.reserve(cnt);
+    
+    for(int i=small;i<cnt+small;i++)   v.push_back(i);    
+	
+    return v;
+}
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* targetIndices(int* nums, int numsSize, int target, int* returnSize) {
