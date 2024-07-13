@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
+| [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gokuls2003/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gokuls2003/leetcode/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokuls2003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gokuls2003/leetcode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gokuls2003/leetcode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
 ## String Matching
 |  |
