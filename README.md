@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/Gokuls2003/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Gokuls2003/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gokuls2003/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/Gokuls2003/leetcode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Gokuls2003/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Gokuls2003/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Gokuls2003/leetcode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
