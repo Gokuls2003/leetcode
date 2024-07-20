@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Gokuls2003/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gokuls2003/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokuls2003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
 | [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gokuls2003/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
