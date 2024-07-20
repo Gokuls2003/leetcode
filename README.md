@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/Gokuls2003/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/Gokuls2003/leetcode/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Gokuls2003/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Gokuls2003/leetcode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Gokuls2003/leetcode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gokuls2003/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0859-design-circular-deque](https://github.com/Gokuls2003/leetcode/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Gokuls2003/leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
@@ -169,12 +171,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Gokuls2003/leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Gokuls2003/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gokuls2003/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Gokuls2003/leetcode/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Gokuls2003/leetcode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gokuls2003/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gokuls2003/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Gokuls2003/leetcode/tree/master/0859-design-circular-deque) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Doubly-Linked List
 |  |
