@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gokuls2003/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0975-range-sum-of-bst](https://github.com/Gokuls2003/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -217,14 +218,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gokuls2003/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Gokuls2003/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Gokuls2003/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gokuls2003/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Gokuls2003/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Gokuls2003/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Gokuls2003/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Gokuls2003/leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
