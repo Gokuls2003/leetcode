@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Gokuls2003/leetcode/tree/master/0146-lru-cache) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gokuls2003/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Gokuls2003/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokuls2003/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0420-strong-password-checker](https://github.com/Gokuls2003/leetcode/tree/master/0420-strong-password-checker) |
+| [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
 | [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gokuls2003/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gokuls2003/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 | [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Backtracking
@@ -254,13 +257,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0420-strong-password-checker](https://github.com/Gokuls2003/leetcode/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/Gokuls2003/leetcode/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
