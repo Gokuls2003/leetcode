@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gokuls2003/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gokuls2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gokuls2003/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Gokuls2003/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gokuls2003/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gokuls2003/leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Gokuls2003/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gokuls2003/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
