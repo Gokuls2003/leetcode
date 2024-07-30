@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Gokuls2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Gokuls2003/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Gokuls2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Gokuls2003/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gokuls2003/leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Gokuls2003/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Gokuls2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gokuls2003/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gokuls2003/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Gokuls2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
