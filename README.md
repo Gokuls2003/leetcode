@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Gokuls2003/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gokuls2003/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [3151-minimum-processing-time](https://github.com/Gokuls2003/leetcode/tree/master/3151-minimum-processing-time) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Gokuls2003/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3151-minimum-processing-time](https://github.com/Gokuls2003/leetcode/tree/master/3151-minimum-processing-time) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Gokuls2003/leetcode/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
+| [3151-minimum-processing-time](https://github.com/Gokuls2003/leetcode/tree/master/3151-minimum-processing-time) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
