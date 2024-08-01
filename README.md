@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gokuls2003/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Gokuls2003/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/Gokuls2003/leetcode/tree/master/0975-range-sum-of-bst) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Gokuls2003/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Data Stream
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gokuls2003/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Gokuls2003/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -306,8 +308,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Gokuls2003/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Gokuls2003/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
