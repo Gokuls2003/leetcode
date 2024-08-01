@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Gokuls2003/leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Gokuls2003/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gokuls2003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Gokuls2003/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Gokuls2003/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Gokuls2003/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Gokuls2003/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gokuls2003/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Gokuls2003/leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
