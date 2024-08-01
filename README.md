@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Gokuls2003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gokuls2003/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1582-design-browser-history](https://github.com/Gokuls2003/leetcode/tree/master/1582-design-browser-history) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Gokuls2003/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Gokuls2003/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gokuls2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Gokuls2003/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Gokuls2003/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -316,6 +318,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Gokuls2003/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Gokuls2003/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Gokuls2003/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Gokuls2003/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
