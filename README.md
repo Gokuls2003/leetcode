@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Gokuls2003/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Gokuls2003/leetcode/tree/master/0860-design-circular-queue) |
+| [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gokuls2003/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/Gokuls2003/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gokuls2003/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Gokuls2003/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
+| [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Gokuls2003/leetcode/tree/master/0420-strong-password-checker) |
 | [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
+| [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Gokuls2003/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/Gokuls2003/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gokuls2003/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Gokuls2003/leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
+| [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 ## String Matching
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/Gokuls2003/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+## Bitmask
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
