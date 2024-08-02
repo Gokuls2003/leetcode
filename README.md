@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Gokuls2003/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Gokuls2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Gokuls2003/leetcode/tree/master/0258-add-digits) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gokuls2003/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Gokuls2003/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/Gokuls2003/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gokuls2003/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Gokuls2003/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1582-design-browser-history](https://github.com/Gokuls2003/leetcode/tree/master/1582-design-browser-history) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Gokuls2003/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Gokuls2003/leetcode/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Gokuls2003/leetcode/tree/master/0778-reorganize-string) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Gokuls2003/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [3151-minimum-processing-time](https://github.com/Gokuls2003/leetcode/tree/master/3151-minimum-processing-time) |
 ## Heap (Priority Queue)
 |  |
