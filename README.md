@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gokuls2003/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Gokuls2003/leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Gokuls2003/leetcode/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Gokuls2003/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Gokuls2003/leetcode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Gokuls2003/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Gokuls2003/leetcode/tree/master/0860-design-circular-queue) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Gokuls2003/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Gokuls2003/leetcode/tree/master/0139-word-break) |
+| [0747-min-cost-climbing-stairs](https://github.com/Gokuls2003/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
 ## Stack
 |  |
