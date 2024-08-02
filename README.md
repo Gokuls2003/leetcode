@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gokuls2003/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Gokuls2003/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Gokuls2003/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Gokuls2003/leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Gokuls2003/leetcode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3151-minimum-processing-time](https://github.com/Gokuls2003/leetcode/tree/master/3151-minimum-processing-time) |
 ## Two Pointers
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Gokuls2003/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Gokuls2003/leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gokuls2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/Gokuls2003/leetcode/tree/master/0800-letter-case-permutation) |
 | [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Gokuls2003/leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## String Matching
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Gokuls2003/leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Graph
 |  |
 | ------- |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/Gokuls2003/leetcode/tree/master/0980-find-the-shortest-superstring) |
+## Enumeration
+|  |
+| ------- |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Gokuls2003/leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 <!---LeetCode Topics End-->
