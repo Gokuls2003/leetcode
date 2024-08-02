@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Gokuls2003/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Gokuls2003/leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Gokuls2003/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Gokuls2003/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Gokuls2003/leetcode/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokuls2003/leetcode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Gokuls2003/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Gokuls2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Gokuls2003/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokuls2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Gokuls2003/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Gokuls2003/leetcode/tree/master/0079-word-search) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Gokuls2003/leetcode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Graph
